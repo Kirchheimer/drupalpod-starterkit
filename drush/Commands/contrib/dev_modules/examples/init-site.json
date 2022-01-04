@@ -1,0 +1,11 @@
+{
+  "config": {
+    "system.site": {
+      "name": "Test name to be ignored"
+    },
+    "smtp.settings": {
+      "smtp_on": true,
+      "smtp_host": "smtp.example.com"
+    }
+  }
+}

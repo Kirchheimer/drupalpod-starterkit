@@ -1,0 +1,10 @@
+name: Development Modules
+description: Enable/disable development/production modules all at once.
+package: Administration
+type: module
+core_version_requirement: ^8.8 || ^9
+
+# Information added by Drupal.org packaging script on 2020-09-04
+version: '2.0.2'
+project: 'dev_modules'
+datestamp: 1599217840

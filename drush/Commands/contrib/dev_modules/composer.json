@@ -1,0 +1,7 @@
+{
+    "name": "drupal/dev_modules",
+    "description": "Enable/disable development/production modules all at once.",
+    "type": "drupal-drush",
+    "license": "GPL-2.0+",
+    "require": { }
+}
